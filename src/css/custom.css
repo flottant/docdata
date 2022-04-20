@@ -111,3 +111,7 @@ table {
 .table-of-contents__link {
   line-height: 150%;
 }
+
+.markdown h1:first-child {
+  --ifm-h1-font-size: 2.5rem;
+}

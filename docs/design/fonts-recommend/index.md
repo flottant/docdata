@@ -30,25 +30,25 @@ Justfont: https://justfont.com/
     {label: '口力口體', value: 'klk'},
   ]}>
   <TabItem value="lym" label="蘭陽明體" defalut>
-    <img src="https://i.imgur.com/5aI4gin.jpg" alt="蘭陽明體"></img>
+    <img src="https://search.pstatic.net/common/?src=https://i.imgur.com/5aI4gin.jpg" alt="蘭陽明體"></img>
   </TabItem>
   <TabItem value="jx" label="金萱">
-    <img src="https://i.imgur.com/YxlWdUl.jpg" alt="金萱"></img>
+    <img src="https://search.pstatic.net/common/?src=https://i.imgur.com/YxlWdUl.jpg" alt="金萱"></img>
   </TabItem>
     <TabItem value="jxnt" label="金萱那提">
-    <img src="https://i.imgur.com/rHKad4R.jpg" alt="金萱那提"></img>
+    <img src="https://search.pstatic.net/common/?src=https://i.imgur.com/rHKad4R.jpg" alt="金萱那提"></img>
   </TabItem>
   <TabItem value="ns" label="凝書體">
-    <img src="https://i.imgur.com/xoIhUw0.jpg" alt="凝書體"></img>
+    <img src="https://search.pstatic.net/common/?src=https://i.imgur.com/xoIhUw0.jpg" alt="凝書體"></img>
   </TabItem>
   <TabItem value="jr" label="激燃體">
-    <img src="https://i.imgur.com/9pdsgZJ.jpg" alt="激燃體"></img>
+    <img src="https://search.pstatic.net/common/?src=https://i.imgur.com/9pdsgZJ.jpg" alt="激燃體"></img>
   </TabItem>
   <TabItem value="lx" label="粒線體">
-    <img src="https://i.imgur.com/39jbCzW.jpg" alt="粒線體"></img>
+    <img src="https://search.pstatic.net/common/?src=https://i.imgur.com/39jbCzW.jpg" alt="粒線體"></img>
   </TabItem>
   <TabItem value="klk" label="口力口體">
-    <img src="https://i.imgur.com/us41GnI.jpg" alt="口力口體"></img>
+    <img src="https://search.pstatic.net/common/?src=https://i.imgur.com/us41GnI.jpg" alt="口力口體"></img>
   </TabItem>
 </Tabs>
 

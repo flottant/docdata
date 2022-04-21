@@ -18,7 +18,7 @@ Justfont: https://justfont.com/
 
 ### 预览
 
-<Tabs
+<Tabs lazy
   defaultValue="lym"
   values={[
     {label: '蘭陽明體', value: 'lym'},

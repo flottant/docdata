@@ -57,7 +57,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/linyuxuanlin/Wiki_Docusaurus/edit/main/',
+          editUrl: 'https://github.com/flottant/docdata/edit/main/',
           sidebarCollapsible: true, //默认折叠
           routeBasePath: "/",
           showLastUpdateTime: true,

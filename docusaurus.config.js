@@ -57,7 +57,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/flottant/docdata/',
+          editUrl: 'https://github.com/flottant/docdata/edit/master/',
           sidebarCollapsible: true, //默认折叠
           routeBasePath: "/",
           showLastUpdateTime: true,
@@ -69,7 +69,7 @@ const config = {
 
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/flottant/docdata/',
+          editUrl: 'https://github.com/flottant/docdata/edit/master/',
           //blogSidebarTitle: 'All posts',
           blogSidebarCount: 'ALL',
           postsPerPage: 8,

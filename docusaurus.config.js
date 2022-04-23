@@ -16,7 +16,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://cos.ap-guangzhou.myqcloud.com/wiki-media-1253965369/doc/logo-zip.png',
   organizationName: 'flottant', // Usually your GitHub org/user name.
-  projectName: 'datawiki', // Usually your repo name.
+  projectName: 'docdata', // Usually your repo name.
 
   //scripts: [
   //  'https://cos.ap-guangzhou.myqcloud.com/wiki-media-1253965369/doc/embed.js',

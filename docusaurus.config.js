@@ -8,9 +8,9 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'flottant 的知识库',
+  title: '御宅族的知识库',
   tagline: '^_^',
-  url: 'https://flot.vercel.app',
+  url: 'https://osw.vercel.app',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -77,8 +77,8 @@ const config = {
           blogSidebarTitle: 'Recent',
           feedOptions: {
             type: 'all',
-            title: 'flottant 的知识库',
-            description: 'flottant 的知识库 RSS',
+            title: '御宅族的知识库',
+            description: '御宅族的知识库 RSS',
             copyright: `Copyright © ${new Date().getFullYear()} Power Lin.`,
           },
         },
@@ -132,7 +132,7 @@ const config = {
 
 
       navbar: {
-        title: ' Flottant ',
+        title: ' 御宅族的知识库', 
         hideOnScroll: false,
         /*
         logo: {
@@ -143,28 +143,10 @@ const config = {
 
 /*
         items: [{
-            to: "硬件设计",
-            label: "硬件设计",
-            position: "right",
+            to: "",
+            label: "",
+            position: "",
           },
-          {
-            to: "嵌入式与软件",
-            label: "嵌入式与软件",
-            position: "right",
-          },
-          {
-            to: "效率指南",
-            label: "效率指南",
-            position: "right",
-          },
-
-          {
-            to: "blog",
-            label: "博客",
-            position: "right",
-          },
-
-
         ],
         */ 
       },
@@ -178,45 +160,13 @@ const config = {
 
           /*
           {
-            href: "http://digest.wiki-power.com/",
-            label: "书摘",
-          },
-          {
-            href: "https://nav.wiki-power.com/",
-            label: "友链 & 导航站",
-          },
-          {
-            label: '资源仓库',
-            href: 'https://github.com/linyuxuanlin/File-host',
-          },
-          */
-          /*
-          {
-            label: '电源设计方案收集',
-            href: 'https://github.com/linyuxuanlin/Collection_of_Power_Module_Design',
-          },
-          {
-            href: "https://wiki.wildwolf.pw/",
-            label: "机器人队知识库",
-          },
-          {
-            label: '功能电路模块化',
-            href: 'https://github.com/linyuxuanlin/Modularity_of_Functional_Circuit',
-          },
-          
-          {
-            label: '网页版串口助手',
-            href: 'https://serial.wiki-power.com/',
-          },
-          {
-            label: 'Markdown 转公众号编辑器',
-            href: 'https://md2wechat.wiki-power.com/',
-          },
+            href: "",
+            label: "",
           */
         ],
 
 
-        //copyright: `by Power Lin | 粤 ICP 备 20014898 号 | Built with Docusaurus.`,
+        copyright: ` Built with Docusaurus.`,
       },
 
 

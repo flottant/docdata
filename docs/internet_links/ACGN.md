@@ -1,7 +1,7 @@
 ---
 id: internet_links_ACGN
 title: 动漫资源相关
-sidebar_label: 动漫资源相关
+sidebar_label: 🟢动漫资源相关
 slug: /internet_links/ACGN/
 ---
 
@@ -17,7 +17,7 @@ slug: /internet_links/ACGN/
 # Galgame
 [失落的小站](https://shinnku.com/)
 
- [绯月ScarletMoon](https://bbs.9shenmi.com/index.php)
+[绯月ScarletMoon](https://bbs.9shenmi.com/index.php)
 
 [05的资源小站](https://alist05.herokuapp.com/)
 

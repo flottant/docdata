@@ -1,7 +1,7 @@
 ---
 id: live-skill-cook
 title: 程序员应该会做饭吧
-sidebar_label: 程序员的做饭指南
+sidebar_label: 🟢程序员的做饭指南
 slug: /live-skill/cook
 ---
 

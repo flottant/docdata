@@ -38,6 +38,10 @@ slug: /internet_links/ACGN/
 
 
 # 总汇
+[琉璃神社](https://www.hacg.cat/index.html)
+
+[05的资源小站](http://fx05.herokuapp.com/)
+
 [Tokyo Toshokan :: #tokyotosho @ irc.rizon.net :: Torrent Listing](https://www.tokyotosho.info/)
 
 [anidex](https://anidex.info/)
@@ -51,6 +55,7 @@ slug: /internet_links/ACGN/
 [https://share.acgnx.se](https://share.acgnx.se/)
 
 [首頁 - 動漫花園資源網 - 動漫愛好者的自由交流平台](https://share.dmhy.org/)
+
 [琉璃神社★分享动漫快乐](https://www.hacg.cat/)
 
 [漫猫动漫BT下载](http://www.comicat.org/)
@@ -64,8 +69,20 @@ slug: /internet_links/ACGN/
 
 # AV（？
 [Browse :: Sukebei](https://sukebei.nyaa.si/)
+[iwara](https://ecchi.iwara.tv/)
 
 # PT站
 [Access Point :: U2](https://u2.dmhy.org/)
 
 [天雪☆论坛 - Powered by Discuz!](https://www.skyey2.com/)
+
+# 轻小说
+[轻之国度](https://obsolete.lightnovel.us/)
+
+# 字幕
+[subbers字幕](https://subbers.org/subtitles/)
+[404字幕](https://404.website/)
+
+
+
+

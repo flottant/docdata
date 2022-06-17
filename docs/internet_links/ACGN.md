@@ -84,6 +84,9 @@ slug: /internet_links/ACGN/
 
 [404字幕](https://404.website/)
 
+[字幕共享计划](https://github.com/foxofice/sub_share)
+
+[伪射手网](https://assrt.net/)
 
 
 

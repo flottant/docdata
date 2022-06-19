@@ -14,6 +14,8 @@ import TabItem from '@theme/TabItem';
 
 Justfont: https://justfont.com/
 
+部分需要付费购买。
+
 大部分情况可商用。具体规定： https://store.justfont.com/universal-contract
 
 ### 预览

@@ -1,3 +1,4 @@
+---
 id: game-dev-all
 title: 游戏开发
 sidebar_label: 🔴游戏开发

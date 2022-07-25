@@ -14,6 +14,7 @@ slug: /internet_links/ACGN/
 
 [派导航 - 最新网址发布页专用导航](https://pi002.com/)
 
+[ACGBox](https://www.acgbox.link)
 # Galgame
 [失落的小站](https://shinnku.com/)
 
